@@ -1,7 +1,9 @@
 /* Navbar Style  */
-h1 {
-	color: whitesmoke;
+h1,p {
+    font-family: 'Playfair Display', serif;
+    color: whitesmoke;
 }
+
 
 /* Page Background */
 body {
@@ -11,3 +13,8 @@ body {
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
+
+
+
+
+
